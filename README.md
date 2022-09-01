@@ -58,8 +58,6 @@ Se utilizó [GitHub](http://semver.org/) para el versionado. Para todas las vers
 
 ## Authors ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Jorge Antonio Silva** - *Desarrollo princiapal* - [Joansico97](https://github.com/Joansico97)
 
 
