@@ -6,7 +6,7 @@ _Esta fue una aplicación realizada en forma de prueba técnica para el puesto d
 
 # Architecture
 
-_Para el desarrollo de esta aplicación se utilizó el patrón Modelo-vista-modelo [MVVM](https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958), aparte de esto se utilizó patrón bloc acompañado de Riverpod como manejador de gestión de estado._
+_Para el desarrollo de esta aplicación se utilizó el patrón Modelo-vista-modelo [MVVM](https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958), aparte de esto se utilizó patrón [BLoC](http://xurxodev.com/introduccion-al-patron-bloc/) acompañado de [Riverpod](https://riverpod.dev/es/) como manejador de gestión de estado._
 
 
 
@@ -52,7 +52,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Versioning 📌
 
-Se utilizó [GitHub](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Joansico97/ZemogaApp).
+Se utilizó [GitHub](http://semver.org/) para el versionado. Para todas las versiones disponibles [aquí](https://github.com/Joansico97/ZemogaApp).
 
 
 
