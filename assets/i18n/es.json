@@ -1,0 +1,19 @@
+{
+    "home_page_text" : {
+        "loading_text": "Cargando datos",
+        "message_text": "Todos los datos han sido eliminados, presiona el botón recargar para consultar de nuevo los datos",
+        "posts_text": "Anuncios",
+        "alert_text": "¿Desea eliminar el anuncio?",
+        "yes_text_button": "Si",
+        "no_text_button": "No"
+    },
+    "detail_page_text" : {
+        "post_text": "Anuncio",
+        "user_text": "Usuario",
+        "name_text": "Nombre: ",
+        "email_text": "Correo: ",
+        "phone_text": "Teléfono: ",
+        "website_text": "Sitio web: ",
+        "comments_text": "Comentarios"
+    }
+}

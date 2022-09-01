@@ -1,0 +1,19 @@
+{
+    "home_page_text" : {
+        "loading_text": "Loading data",
+        "message_text": "All data has been deleted, press the reload button to check the data again",
+        "posts_text": "Posts",
+        "alert_text": "Do you want to remove the post?",
+        "yes_text_button": "Yes",
+        "no_text_button": "No"
+    },
+    "detail_page_text" : {
+        "post_text": "Post",
+        "user_text": "User",
+        "name_text": "Name: ",
+        "email_text": "Email: ",
+        "phone_text": "Phone: ",
+        "website_text": "Website: ",
+        "comments_text": "Comments"
+    }
+}
