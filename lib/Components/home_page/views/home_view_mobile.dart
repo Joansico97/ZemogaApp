@@ -81,7 +81,7 @@ class _HomeViewMobile extends StatelessWidget {
                             context: context,
                             barrierDismissible: true,
                             barrierColor: Colors.black.withOpacity(.9),
-                            builder: (contex) => Container(
+                            builder: (contex) => SizedBox(
                               height: size.width(context, .025),
                               width: size.width(context, .025),
                               // color: Colors.red,

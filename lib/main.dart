@@ -5,6 +5,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:zemoga_app/routes/router.dart';
 import 'package:zemoga_app/services/services.dart';
+import 'package:zemoga_app/utils/colors.dart';
 
 part './config/app_config.dart';
 

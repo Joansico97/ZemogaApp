@@ -74,7 +74,7 @@ class PostCard extends ConsumerWidget {
                     ],
                   ),
                 ),
-                Icon(Icons.arrow_forward_ios_rounded),
+                const Icon(Icons.arrow_forward_ios_rounded),
               ],
             ),
           ),

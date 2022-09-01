@@ -45,7 +45,7 @@ class DetailPage extends ConsumerWidget {
             child: LayoutBuilder(
               builder: (context, constraints) {
                 if (constraints.maxWidth >= 1280) {
-                  // TODO: Desktop and Tablet View
+                  //TODO: Hacer desktop and tablet view
                   return Container();
                 } else {
                   return _DetailViewMobile(
