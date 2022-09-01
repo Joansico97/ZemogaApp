@@ -2,6 +2,14 @@
 
 _Esta fue una aplicación realizada en forma de prueba técnica para el puesto de desarrollador flutter_
 
+
+
+# Architecture
+
+_Para el desarrollo de esta aplicación se utilizó el patrón Modelo-vista-modelo [MVVM](https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958)_
+
+
+
 ## Getting Started 🚀
 
 _Sigue estas instrucciones para poder descargar el proyecto_
