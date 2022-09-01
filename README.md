@@ -1,16 +1,68 @@
-# zemoga_app
+# Zemoga App
 
-A new Flutter project.
+_Esta fue una aplicación realizada en forma de prueba técnica para el puesto de desarrollador flutter_
 
-## Getting Started
+## Getting Started 🚀
 
-This project is a starting point for a Flutter application.
+_Sigue estas instrucciones para poder descargar el proyecto_
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites 📋
+
+_Se debe contar con un dispositivo que tenga instalado flutter, un editor de código y un emulador o dispositivo físico para correr el aplicativo_
+
+
+
+### Installing 🔧
+
+_1) Descarga el proyecto desde el repositorio_
+ 
+_2) Localiza la carpeta donde fue descargado el repositorio e importala dentro del editor de código_
+
+_3) Si el editor de código que utilizas es visual studio code, abre la terminal del editor y corre el comando flutter pub get_
+
+_4) Si el editor de código que utilizas no es visual studio code, abre una ventana de terminal, navega hasta la carpeta del proyecto y corre el comando flutter pub get_
+
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+
+
+## Built With 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Flutter](https://flutter.dev/?gclid=CjwKCAjwsMGYBhAEEiwAGUXJaRC2ykyo6a_L_yuoEnpuil0U6SrEtqvVJDo6Jyw5Nm0U2XFpa_83JBoCukcQAvD_BwE&gclsrc=aw.ds) - El framework web usado
+* [Flutter Localizations] - Usado para manejar los idiomas soportados en la traducción de la aplicación
+* [GoRouter](https://pub.dev/packages/go_router) - Enrutador 2.0
+* [Flutter Riverpod](https://pub.dev/packages/flutter_riverpod) - Manejador de estado
+* [Dio](https://pub.dev/packages/dio) - Cliente http
+* [Animate Do](https://pub.dev/packages/animate_do) - Animaciones avanzadas
+* [Logger](https://pub.dev/packages/logger) - Comentarios de consola avanzados
+
+
+
+## Versioning 📌
+
+Se utilizó [GitHub](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Joansico97/ZemogaApp).
+
+
+
+## Authors ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Jorge Antonio Silva** - *Desarrollo princiapal* - [Joansico97](https://github.com/Joansico97)
+
+
+
+## License 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Acknowledgments 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* Dona con cripto a esta dirección: `0x8337Eb3D75302AFb135211FA4D0961891180b762`
